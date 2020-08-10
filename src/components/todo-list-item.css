@@ -1,0 +1,10 @@
+.done {
+    text-decoration: line-through;
+}
+.activeItem {
+    color: blue;
+    font-weight: bold;
+}
+.todo-list-item-label {
+    cursor: pointer;
+}
